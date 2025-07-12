@@ -15,7 +15,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Configure Git (23f2003621@ds.study.iitm.ac.in)
+      - name: Configure Git (shr.kanha.0212@gmail.com)
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "shr.kanha.0212@gmail.com"
